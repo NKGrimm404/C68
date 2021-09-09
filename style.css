@@ -1,0 +1,20 @@
+marquee{
+    font-size: 50px;
+    font-family:monospace;
+    color: white
+}
+body{
+    background: linear-gradient(#b38302 0%, #013002 100%);
+ 
+}
+
+Spartans{
+    height: 900;
+    width: 400;
+}
+.warning{
+    color:red;
+}
+#circlething{
+
+}
